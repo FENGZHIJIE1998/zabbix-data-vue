@@ -1,7 +1,9 @@
 # data-vue
-zabbix-data的前端代码，使用vue+elementUI
-详细请戳博客
-后端代码地址https://github.com/FENGZHIJIE1998/zabbix-data
+一款基于zabbix服务器监测的报表导出系统zabbix-data的前端代码，使用vue+elementUI
+
+详细请戳博客 https://blog.csdn.net/weixin_42236404/article/details/105726075
+
+后端代码地址 https://github.com/FENGZHIJIE1998/zabbix-data
 
 ## Project setup
 ```
