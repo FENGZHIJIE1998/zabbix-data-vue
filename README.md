@@ -1,4 +1,7 @@
 # data-vue
+zabbix-data的前端代码，使用vue+elementUI
+详细请戳博客
+后端代码地址https://github.com/FENGZHIJIE1998/zabbix-data
 
 ## Project setup
 ```
